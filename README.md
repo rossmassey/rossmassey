@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-I am a Jr. Software Engineer at Forward Slope Inc.
+I am a Software Engineer at Forward Slope Inc.
 
