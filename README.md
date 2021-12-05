@@ -1,4 +1,9 @@
-### Hi there 👋
+### Peon
 
-I am a Software Engineer at Forward Slope Inc.
+#### Damage: 
 
+7 - 8
+
+#### Defense 
+
+0
